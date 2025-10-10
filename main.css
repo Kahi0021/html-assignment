@@ -2,21 +2,21 @@
 body {
     font-family: 'Segoe UI';
     font-size: 18px;
-    color: pink;
+    color: rgb(7, 33, 160);
 }
 
 /*comma means AND */
 header, footer  {
-    background-color: #5c4ae2;
+    background-color: #050506;
 }
 
 
 .site-title {
-    color: #ff0000;
+    color: #4400ff;
 }
 
 #my-image {
-    box-shadow: 0 0 2px 1px rgb(0, 0, 0); 
+    box-shadow: 0 0 2px 1px rgb(197, 12, 108); 
 }
 
 .hobbies {
@@ -24,12 +24,12 @@ header, footer  {
 }
 
 .hobbies li:nth-child(even) {
-    background-color: brown; 
+    background-color: rgb(3, 147, 77); 
 }
 
 nav a {
     text-decoration: none;                      
-    background-color: #99cc00;   
+    background-color: #bbcc00;   
     border: 1px solid #0098a3;  
 }
 
