@@ -1,0 +1,40 @@
+/* this is a css comment */
+body {
+    font-family: 'Segoe UI';
+    font-size: 18px;
+    color: pink;
+}
+
+/*comma means AND */
+header, footer  {
+    background-color: #5c4ae2;
+}
+
+
+.site-title {
+    color: #ff0000;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px rgb(0, 0, 0); 
+}
+
+.hobbies {
+    list-style-type: square;
+}
+
+.hobbies li:nth-child(even) {
+    background-color: brown; 
+}
+
+nav a {
+    text-decoration: none;                      
+    background-color: #99cc00;   
+    border: 1px solid #0098a3;  
+}
+
+nav a:hover {
+    background-color: #a33e00;
+}
+
+
